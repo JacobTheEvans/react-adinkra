@@ -6,7 +6,7 @@
 <p>The vanilla package can be found <a href="https://github.com/JacobTheEvans/adinkra">here</a></p>
 
 ## How to use it
-<p>To use the Adinkra in a website you must include the CSS CDN link in the head of your index.html</p>
+<p>To use the Adinkra Symbols in a website you must include the CSS CDN link in the head of your index.html</p>
 
 ```html
 <link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/b79018a0/src/adinkra.css">

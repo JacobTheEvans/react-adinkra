@@ -1,6 +1,6 @@
 {
   "name": "react-adinkra",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "description": "React Component for the adinkra library",
   "dependencies": {

@@ -1,7 +1,7 @@
 # React Adinkra
 <p>This project was made to allow easy use of the West African Adinkra symbols in a React project.</p>
 
-<p>Documentation can be found <a href="https://github.com/JacobTheEvans/adinkra-docs">here</a></p>
+<p>Documentation can be found <a href="https://jacobtheevans.github.io/adinkra-docs/#/">here</a></p>
 
 <p>The vanilla package can be found <a href="https://github.com/JacobTheEvans/adinkra">here</a></p>
 
@@ -9,7 +9,7 @@
 <p>To use the Adinkra Symbols in a website you must include the CSS CDN link in the head of your index.html</p>
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/15ed071d/src/adinkra.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/c54b4e0e/src/adinkra.css">
 ```
 
 Then install the package using npm

@@ -1,7 +1,7 @@
 # React Adinkra
 <p>This project was made to allow easy use of the West African Adinkra symbols in a React project.</p>
 
-<p>Documentation can be found here</p>
+<p>Documentation can be found <a href="https://github.com/JacobTheEvans/adinkra-docs">here</a></p>
 
 <p>The vanilla package can be found <a href="https://github.com/JacobTheEvans/adinkra">here</a></p>
 

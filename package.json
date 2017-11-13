@@ -1,6 +1,6 @@
 {
   "name": "react-adinkra",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "lib/index.js",
   "description": "React Component for the adinkra library",
   "dependencies": {
@@ -12,6 +12,18 @@
     "lib": "babel src/node_modules --out-dir lib --copy-files",
     "test": "node scripts/test.js --env=jsdom"
   },
+  "keywords": [
+    "react",
+    "adinkra",
+    "react-adinkra",
+    "icons",
+    "fonts",
+    "icon",
+    "style",
+    "jsx",
+    "react-component",
+    "component"
+  ],
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
